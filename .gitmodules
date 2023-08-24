@@ -1,0 +1,9 @@
+[submodule "app/farm"]
+	path = app/farm
+	url = https://github.com/GovA11y/rabbit-farm
+[submodule "app/hole"]
+	path = app/hole
+	url = https://github.com/GovA11y/rabbit-hole
+[submodule "app/run"]
+	path = app/run
+	url = https://github.com/GovA11y/rabbit-run
